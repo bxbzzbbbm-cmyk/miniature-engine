@@ -3,7 +3,7 @@ type = "javascript"
 compatibility_date = "2026-07-06"
 
 kv_namespaces = [
-  { binding = "NUMBERS_KV", id = "f151e74502754f2d835e7c442d6bb9f8" }
+  { binding = "KV_NAMESPACE", id = "f151e74502754f2d835e7c442d6bb9f8" }
 ]
 
 main = "worker.js"
